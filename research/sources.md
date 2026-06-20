@@ -32,7 +32,7 @@ The goal is to study practitioners who actively build, run, teach, or optimize o
 
 - **Main platform links:**
   - LinkedIn: https://www.linkedin.com/in/williamallred/
-  - YouTube: https://www.youtube.com/@lavenderhq
+  - YouTube: To be collected
 - **Role / company:** Co-founder, Lavender
 - **Outbound category:** Cold email copywriting, email performance analysis, reply-rate optimization
 - **Pipeline layer:** Message writing, email structure, reply generation
@@ -63,7 +63,7 @@ The goal is to study practitioners who actively build, run, teach, or optimize o
 
 - **Main platform links:**
   - LinkedIn: https://www.linkedin.com/in/outboundsales/
-  - YouTube: https://www.youtube.com/@OutboundSquad
+  - YouTube: To be collected
 - **Role / company:** Founder and CEO, Outbound Squad
 - **Outbound category:** Cold calling, outbound sequences, prospecting systems
 - **Pipeline layer:** Sequence architecture, call execution, objection handling

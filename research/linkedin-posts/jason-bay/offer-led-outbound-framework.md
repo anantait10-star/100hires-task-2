@@ -10,19 +10,21 @@ pipeline_stage: message_creation
 
 If I was a BDR or AE trying to break into my dream account, here's exactly what I'd do:
 
-I'd come up with an offer that made the buyer feel irresponsible for not taking the meeting with me.
+I'd come up with an offer that made the buyer feel **irresponsible for not taking the meeting with me.**
 
 And I'd do this with a killer offer.
 
 This is the outbound datapoint everyone should be building their 2026/27 strategy around:
 
-Offers increase email reply rates by up to 28% (Gong).
+**Offers increase email reply rates by up to 28% (Gong).**
 
-Offers are NOT:
+---
 
-A free demo
-A gift card
-A “meet and greet”
+## Offers Are NOT:
+
+* A free demo
+* A gift card
+* A “meet and greet”
 
 They’re tangible gives.
 
@@ -30,53 +32,59 @@ For example, a cart audit if you sell an ecommerce solution.
 
 Dig through the checkout process and analyze:
 
-Missed upsell opportunities
-Broken processes
-Lack of cart abandon follow-up
+* Missed upsell opportunities
+* Broken processes
+* Lack of cart abandon follow-up
 
 etc.
 
 Here’s how you can use offers to increase the effectiveness of your cold outreach:
 
-Offer #1 — Pitch The Blind Date
+---
+
+## Offer #1 — Pitch The Blind Date
 
 Position who the buyer will be meeting with.
 
 I'd hype up the AE, sales engineer, or myself depending on my industry experience.
 
-Example:
+**Example:**
 
 A client of ours sells an automated welding solution.
 
-Email CTA:
+**Email CTA:**
 
-Our welding solutions engineer, Paul, is working with Hitch manufacturers like CURT to help overcome the welder shortage and produce consistent, high-quality welds.
+> Our welding solutions engineer, Paul, is working with Hitch manufacturers like CURT to help overcome the welder shortage and produce consistent, high-quality welds.
+>
+> Interested in a quick intro?
 
-Interested in a quick intro?
+---
 
-Offer #2 — 1 Offers
+## Offer #2 — 1:Many Offers
 
 High-quality, reusable insights that feel tailored.
 
 Examples:
 
-Competitive benchmarks
-Industry research
-Best practice guides
+* Competitive benchmarks
+* Industry research
+* Best practice guides
 
-Example:
+**Example:**
 
 We have a client that sells a clinical ops solution.
 
 They surveyed dozens of clients in key areas around clinical trials.
 
-Email CTA:
+**Email CTA:**
 
-We ran a benchmarking analysis with a few of your peers like Ultromics and MEDRhythms to find average study start times, drop-out rates, and insights on how they shorten build times.
+> We ran a benchmarking analysis with a few of your peers like Ultromics and MEDRhythms to find average study start times, drop-out rates, and insights on how they shorten build times.
+>
+> Interested in seeing how you stack up?
 
-Interested in seeing how you stack up?
+---
 
-Offer #3 — 1:1 Offers
+## Offer #3 — 1:1 Offers
 
 These are custom-tailored experiences or resources created specifically for the prospect.
 
@@ -84,38 +92,41 @@ This works best at the enterprise and strategic levels.
 
 Examples:
 
-Cyber risk analysis
-Benchmarking analysis
-Workshop
-Personalized audit of a website checkout flow
-Visiting and experiencing the brand firsthand, then sharing insights
-Offering free data, licenses, or pilots
+* Cyber risk analysis
+* Benchmarking analysis
+* Workshop
+* Personalized audit of a website checkout flow
+* Visiting and experiencing the brand firsthand, then sharing insights
+* Offering free data, licenses, or pilots
 
-Example:
+**Example:**
 
 An EdTech rep could use language like this when reaching out to school districts:
 
-We compiled a report of how WCUS stacks up against the top schools in WA & OR.
+> We compiled a report of how WCUS stacks up against the top schools in WA & OR.
+>
+> Free next week to run through the report together?
+>
+> Tom
+>
+> P.S. If nothing else, you’ll see how other PNW school districts are minimizing student inequity and achievement gaps to increase student readiness and graduation rates.
 
-Free next week to run through the report together?
-
-Tom
-
-P.S. If nothing else, you’ll see how other PNW school districts are minimizing student inequity and achievement gaps to increase student readiness and graduation rates.
+---
 
 Offers are the future of outbound.
 
 They’ll help your:
 
-Emails
-Calls
-DMs
+* Emails
+* Calls
+* DMs
 
 cut through the noise.
 
 The question:
 
-What are you giving the buyer that, even if they decide not to buy your solution, makes the time they spend with you worthwhile?
+**What are you giving the buyer that, even if they decide not to buy your solution, makes the time they spend with you worthwhile?**
+
 
 # Research Notes
 

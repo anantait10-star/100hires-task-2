@@ -9,67 +9,99 @@ framework: send_me_an_email
 ---
 # Original Post
 
-Conner Chesson hit 200% of SDR quota at Gong.
+Conner Chesson hit **200% of SDR quota at Gong.**
 
 Here's the exact cold call script for his favorite objection:
 
-“Send me an email.”
+**“Send me an email.”**
 
-Prospect:
+---
 
-Thanks, send me some information and I’ll take a look.
+## The Script
 
-You (Agree):
+**Prospect:**
 
-Oh for sure. I’d wanna digest it all first too.
+> Thanks, send me some information and I’ll take a look.
 
-You (Incentivize):
+---
 
-Just so I don’t clutter your inbox, was there a specific question you had in mind or just a general overview?
+### You (Agree):
 
-Prospect:
+> Oh for sure. I’d wanna digest it all first too.
 
-Just a general overview.
+---
 
-You (Test Drive):
+### You (Incentivize):
 
-Haha, I’m the king of “this meeting should’ve been an email” too.
+> Just so I don’t clutter your inbox, was there a specific question you had in mind or just a general overview?
 
-But I’ll be honest, those PDFs aren’t gonna be relevant at all… and you’ll know if this is a fit in the first 15 minutes.
+---
 
-Opposed to taking a look, and if it’s not a fit I can give you 15 back?
+**Prospect:**
 
-Prospect:
+> Just a general overview.
 
-No no, I’d really prefer some information.
+---
 
-You (Permission):
+### You (Test Drive):
 
-Okay, waving my white flag! Before I go, mind if I ask you a brutally honest question?
+> Haha, I’m the king of “this meeting should’ve been an email” too.
+>
+> But I’ll be honest, those PDFs aren’t gonna be relevant at all…
+>
+> And you’ll know if this is a fit in the first 15 minutes.
+>
+> Opposed to taking a look, and if it’s not a fit I can give you 15 back?
 
-Prospect:
+---
 
-Sure.
+**Prospect:**
 
-You (Disarmingly Blunt):
+> No no, I’d really prefer some information.
 
-When folks tell me to send them some info, they’re just too nice to tell me to go away.
+---
 
-Is that what’s happening?
+### You (Permission):
 
-Prospect:
+> Okay, waving my white flag!
+>
+> Before I go, mind if I ask you a brutally honest question?
 
-No of course not! I promise I’ll at least take a look.
+---
 
-You (The Dart):
+**Prospect:**
 
-Okay, here’s our deal.
+> Sure.
 
-I’ll send you the info, call out exactly what’s relevant to you, and send a placeholder invite for next week.
+---
 
-If you don’t like it, you can just decline the invite.
+### You (Disarmingly Blunt):
 
-Fair?
+> When folks tell me to send them some info, they’re just too nice to tell me to go away.
+>
+> Is that what’s happening?
+
+---
+
+**Prospect:**
+
+> No of course not!
+>
+> I promise I’ll at least take a look.
+
+---
+
+### You (The Dart):
+
+> Okay, here’s our deal.
+>
+> I’ll send you the info, call out exactly what’s relevant to you, and send a placeholder invite for next week.
+>
+> If you don’t like it, you can just decline the invite.
+>
+> Fair?
+
+---
 
 You got a good one Gong ;)
 
@@ -78,6 +110,7 @@ Keep knocking down those dials Conner.
 You cold calling machine.
 
 We eat “send me an email” for lunch around here.
+
 
 ---
 

@@ -8,8 +8,6 @@ pipeline_stage: prospecting_strategy
 ---
 # Original Post
 
-## Post 4 — Cold Outbound Is Only One Type of Pipeline Generation
-
 "Cold outbound" is only **one flavor of pipegen.**
 
 It's the coldest, least effective way to engage buyers.

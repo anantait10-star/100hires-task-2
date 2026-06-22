@@ -70,15 +70,13 @@ The goal is to study practitioners who actively build, run, teach, or optimize o
 - **Why selected:** Jason is included because Outbound Squad focuses directly on outbound sales execution. His work is especially relevant for turning prospecting theory into repeatable cadences, call blocks, voicemail patterns, and objection workflows.
 - **Content planned to collect:** YouTube videos, podcast/interview transcripts, LinkedIn posts, call frameworks, objection-handling material, cadence guidance
 
-## 6. Quota League
-
-- **Main platform links:**
-  - LinkedIn: https://www.linkedin.com/in/quotaleague/
-- **Role / company:** Outbound sales education and tactical SDR content source
-- **Outbound category:** SDR execution, daily prospecting tactics, pipeline discipline
-- **Pipeline layer:** Rep-level activity, prospecting consistency, tactical execution
-- **Why selected:** Quota League is included because the content is focused on practical SDR behavior: what to do each day, how to keep outreach moving, and how to improve execution. It is useful as a tactical layer for the playbook rather than a broad marketing source.
-- **Content planned to collect:** LinkedIn posts, tactical outbound tips, SDR workflow examples, prospecting checklists, daily execution guidance
+### 6. Christian Krause
+*   **Main Platform:** [LinkedIn](https://www.linkedin.com/in/christian-krause/)
+*   **Role / Company:** Founder, The Quota League & Advisor for VPs of Sales
+*   **Outbound Category:** SDR productivity, social selling, outbound systemization
+*   **Pipeline Layer:** Rep-level execution, LinkedIn social selling, daily prospecting consistency
+*   **Why Selected:** Christian is included because he is a top-performing practitioner (former #1 Social Selling Champion at Salesforce) who trains SDR and AE teams at enterprise SaaS companies. His focus is on high-efficiency, targeted outbound—such as his 5x5 research system and Video DMs—making his content highly tactical for the daily operating rhythm of a rep.
+*   **Content Planned to Collect:** LinkedIn posts, his 5x5 research framework, Video DM workflows, social selling checklists, and daily productivity systems for SDRs
 
 ## 7. Morgan J Ingram
 

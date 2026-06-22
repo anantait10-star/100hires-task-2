@@ -71,6 +71,7 @@ The goal is to study practitioners who actively build, run, teach, or optimize o
 - **Content planned to collect:** YouTube videos, podcast/interview transcripts, LinkedIn posts, call frameworks, objection-handling material, cadence guidance
 
 ### 6. Christian Krause
+
 *   **Main Platform:** [LinkedIn](https://www.linkedin.com/in/christian-krause/)
 *   **Role / Company:** Founder, The Quota League & Advisor for VPs of Sales
 *   **Outbound Category:** SDR productivity, social selling, outbound systemization
